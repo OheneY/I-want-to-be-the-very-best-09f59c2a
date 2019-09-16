@@ -1,0 +1,12 @@
+thead
+td {
+	border: none;
+}
+tbody
+td {
+	border: 1px solid #000;
+	color: grey;
+}
+.time{
+	color: black;
+}
